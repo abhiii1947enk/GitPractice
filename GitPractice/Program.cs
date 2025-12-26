@@ -13,6 +13,7 @@ namespace GitPractice
             Console.WriteLine("Hello, Git!");
             Console.WriteLine("Hello Git - Second Commit");  
             Console.WriteLine("Hello Git - Third Commit");
+            Console.WriteLine("Learning Git Diff");
         }
     }
 }
