@@ -1,4 +1,4 @@
-﻿using System;
+"﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,6 +16,7 @@ namespace GitPractice
             Console.WriteLine("Learning Git Diff");
             Console.WriteLine("Feature branch Commit");
             Console.WriteLine("This line added from GitHub");
+            Console.WriteLine("Changes by collaborator");
         }
     }
 }
