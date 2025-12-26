@@ -17,6 +17,7 @@ namespace GitPractice
             Console.WriteLine("Feature branch Commit");
             Console.WriteLine("This line added from GitHub");
             Console.WriteLine("Added some changes by collaborator ");
+            Console.WriteLine("Testing");
         }
     }
 }
