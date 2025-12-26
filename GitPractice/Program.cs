@@ -16,7 +16,7 @@ namespace GitPractice
             Console.WriteLine("Learning Git Diff");
             Console.WriteLine("Feature branch Commit");
             Console.WriteLine("This line added from GitHub");
-            Console.WriteLine("Changes by collaborator");
+            Console.WriteLine("Added some changes by collaborator ");
         }
     }
 }
