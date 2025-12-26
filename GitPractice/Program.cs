@@ -11,8 +11,8 @@ namespace GitPractice
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Git!");
-            Console.WriteLine("Hello Git - Second Commit");
-
+            Console.WriteLine("Hello Git - Second Commit");  
+            Console.WriteLine("Hello Git - Third Commit");
         }
     }
 }
