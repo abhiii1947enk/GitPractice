@@ -18,6 +18,7 @@ namespace GitPractice
             Console.WriteLine("This line added from GitHub");
             Console.WriteLine("Added some changes by collaborator ");
             Console.WriteLine("Testing");
+            Console.WriteLine("Hello, how are you?");
         }
     }
 }
