@@ -20,6 +20,7 @@ namespace GitPractice
             Console.WriteLine("Added some changes by collaborator ");
             Console.WriteLine("Testing");
             Console.WriteLine("Hello, how are you?");
+            Console.WriteLine("Testing from Collaborator in the main branch.");
         }
     }
 }
